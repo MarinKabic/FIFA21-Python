@@ -5,7 +5,8 @@ The dataset that is analyzed is on https://www.kaggle.com/datasets/yagunnersya/f
 
 For this analysis the CSV file named "fifa21_raw_data.csv" was used.
 
-Deliverables
+## Deliverables
+
 This project will clean data and provide visualizations on FIFA 21 player data in Python. Some of the cleaning that will be done in this project:
 
 - Cleaning unnecessary "\n" from columns, i.e. from "Team & Contract"
